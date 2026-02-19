@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>Eric Siaba - GIS Professional Resume</title>
+    <style>
+        body {
+            font: Arial;
+            line-height: 1.5;
+            color: #333333;
+            margin: 0 auto;
+            padding: 50px;
+            background-color: #ffffff;
+        }
+
+        header {
+            text-align: center;
+            border-bottom: 3px solid #0000FF;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            color: #0000FF;
+            font-size: 2em;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        h2 {
+            color: #0000FF;
+            border-bottom: 1px solid #eeeeee;
+            padding-bottom: 5px;
+            margin-top: 40px;
+            font-size: 1.5em;
+        }
+
+        h3 {
+            color: #0000FF;
+            margin-bottom: 5px;
+        }
+
+        h4 {
+           
+            font-weight: normal;
+            margin-top: 0;
+        }
+
+        .profile {
+            width: 140px;
+            height: 140px;
+            border: 2px solid #0000FF;
+            margin-bottom: 15px;
+        }
+
+        .links {
+            color: #0000FF;
+            text-decoration: none;
+            font-weight: bold;
+            margin: 0 10px;
+        }
+
+        .date {
+            float: right;
+            font-style: italic;
+			color: #000000;
+        }
+
+        ul {
+            margin-bottom: 20px;
+        }
+
+        .summary {
+            font-size: 1.1em;
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="https://media.licdn.com/dms/image/v2/C4D03AQF6ngvEjK9Edg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1635641180653?e=1773273600&v=beta&t=I1Bs4BvQd4zeCMMCd-Y4ZjehcZJPut_2TKKFJdnLr9Y" alt="Eric Siaba" class="profile">
+        
+        <h1>Eric Siaba</h1>
+        
+        <div class="links">
+            <p>
+                512-554-2683 | 
+                <a href="mailto:eric13siaba@gmail.com">Email</a> | 
+                <a href="https://linkedin.com/in/eric-siaba" target="_blank" rel="noopener">LinkedIn</a>
+            </p>
+        </div>
+    </header>
+
+    <h2>Professional Summary</h2>
+    <p class="summary">
+        GIS student with practical experience in geospatial data analysis, cartography, and database management. 
+        Skilled in digitizing and analyzing datasets to support decision-making and public outreach. 
+        Proven ability to create maps, graphics, and data visualizations for government and commercial applications.
+    </p>
+
+    <h2>Education</h2>
+    <span class="date">GPA: 3.5</span>
+    <h3>Texas A&M University</h3>
+    <h4>BS in Geographic Information Systems (Minor in Communications)</h4>
+
+    <h2>Experience</h2>
+    
+    <div class="job">
+        <span class="date">August 2025 - Present</span>
+        <h3>GIS Technician - City of College Station</h3>
+        <h4><strong>College Station, TX</strong></h4>
+        <ul>
+            <li>Generated zoning maps and graphics for public hearings and forums.</li>
+            <li>Developed and maintained city databases to ensure data integrity and accessibility.</li>
+            <li>Analyzed demographic and geographic data to support public services.</li>
+        </ul>
+    </div>
+
+    <div class="job">
+        <span class="date">May 2025 - August 2025</span>
+        <h3>GIS Technician (Intern) - Roseburg Forest Products</h3>
+        <h4><strong>Roseburg, OR</strong></h4>
+        <ul>
+            <li>Digitized 18 townships of road data, allowing for increased logging team speed.</li>
+            <li>Developed and managed 400 road ownership datasets for faster procurement.</li>
+            <li>Digitized 12,000 streams to maintain compliance with government regulations.</li>
+            <li>Collected several miles of road condition data using ArcGIS Field Maps.</li>
+        </ul>
+    </div>
+	
+	    <div class="job">
+        <span class="date">March 2023 - Present</span>
+        <h3>Manager - El Patio Foods </h3>
+        <h4><strong>Austin, Texas</strong></h4>
+        <ul>
+            <li>Initiated and achieved a plan to increase daily revenue by 75%</li>
+            <li>Problem solving and critical decision making which led to dramatically increased service speed</li>
+            <li>Oversaw employee and stock data to ensure constant supply</li>
+            <li>Managed, organized and allocated tasks to team of 20+ employees</li>
+        </ul>
+    </div>
+
+    <h2>Technical Skills</h2>
+    <ul>
+        <li><strong>Mapping:</strong> ArcGIS Pro, ArcGIS Online, Google Earth Pro</li>
+        <li><strong>Field Work:</strong> ArcGIS Field Maps</li>
+        <li><strong>Analysis:</strong> Geospatial Data Management, Spatial Analysis</li>
+        <li><strong>General:</strong> Microsoft Office Suite</li>
+    </ul>
+
+    <h2>Activities & Certifications</h2>
+    <ul>
+        <li>Member, TAMU Geography Society</li>
+        <li>Social Media Manager & Officer, TAMU Judo</li>
+		<li>Geographic Information Systems (GIS) Specialization - UC Davis</li>
+		<li>Getting Started with Spatial Analysis - ESRI</li>
+		<li>Getting Started with Data Management - ESRI</li>
+       
+    </ul>
+
+</body>
+</html>
